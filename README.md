@@ -24,7 +24,7 @@ A from-scratch implementation and comparison of **Variational Autoencoders (VAE)
 ```bash
 # 1. Clone
 git clone https://github.com/Mexbow/Mohamed-Khaled-GenCV003-.git
-cd gencv003-vae-ddpm
+cd Mohamed-Khaled-GenCV003-
 
 # 2. Create environment (Python 3.10+)
 python -m venv venv
